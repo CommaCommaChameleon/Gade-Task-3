@@ -1,0 +1,24 @@
+10
+12
+10
+2
+3
+Blue
+M
+Foot Soldier
+4
+6
+10
+2
+3
+Blue
+M
+Foot Soldier
+12
+4
+10
+2
+3
+Blue
+M
+Foot Soldier
